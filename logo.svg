@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1612 622" style="enable-background:new 0 0 1612 622;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#007FFF;}
+	.st1{fill:#007FFF;}
+	.st2{fill:#FFFFFF;}
+</style>
+<polygon class="st0" points="68,208 307,208 381,80 517,80 567,208 1544,208 1353,542 258,542 "/>
+<g id="Layer_3">
+	<rect class="st1" width="1612" height="622"/>
+</g>
+<polygon id="V" class="st2" points="100,228 296,228 242,322 252,338 390,100 434,217 263,515 "/>
+<polygon id="I" class="st2" points="448,228 547,228 377,522 278,522 "/>
+<polygon id="C" class="st2" points="566,228 787,228 735,318 625,318 556,439 665,439 617,522 396,522 "/>
+<g id="O">
+	<path class="st2" d="M807,228L637,522h223l168-294H807z"/>
+	<polygon class="st1" points="767,439 826,439 896,318 836,318 	"/>
+</g>
+<polygon id="L" class="st2" points="1050,228 880,522 1101,522 1149,439 1040,439 1160,228 "/>
+<g id="O_1_">
+	<path class="st2" d="M1291,228l-170,294h223l168-294H1291z"/>
+	<polygon class="st1" points="1251,439 1310,439 1380,318 1320,318 	"/>
+</g>
+<polygon id="Tilde" class="st2" points="505,100 406,100 448,208 547,208 "/>
+</svg>
